@@ -1,0 +1,11 @@
+Olá!
+
+Seja bem-vindo a esta documentação.
+
+Para utilizar o programa kpi.py, você deve serguir os seguintes passos:
+
+1) Assim que solicitado, digite o seu nome no terminal
+2) Digite o seu salário no terminal assim que o mesmo solicitar
+3) E por último digite a porcentagem do seu bônus (lembrando que o valor deverá ser maior que 1, ou seja, se você recebeu 50% de bônus, deverá escerver 1.5, e assim por diante)
+4) Será apresentado no terminal o valor do seu bônus.
+
